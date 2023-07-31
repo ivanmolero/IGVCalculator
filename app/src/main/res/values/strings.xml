@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">IGVCalculator</string>
+    <string name="title_app">Calculadora IGV</string>
+    <string name="igv_item">IGV</string>
+    <string name="valor_venta_item">Valor venta</string>
+    <string name="total_factura">Total venta</string>
 </resources>
